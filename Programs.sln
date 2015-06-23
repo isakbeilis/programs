@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LasNi-VS", "LasNi-VS\LasNi-VS.vcxproj", "{AB72F4F5-5FC1-4617-9F63-6603081AF898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB72F4F5-5FC1-4617-9F63-6603081AF898}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AB72F4F5-5FC1-4617-9F63-6603081AF898}.Debug|Win32.Build.0 = Debug|Win32
+		{AB72F4F5-5FC1-4617-9F63-6603081AF898}.Release|Win32.ActiveCfg = Release|Win32
+		{AB72F4F5-5FC1-4617-9F63-6603081AF898}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
